@@ -1,0 +1,12 @@
+.title {
+    color: rgb(242, 243, 243);
+  }
+  
+  .navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: royalblue;
+    text-align: center;
+  }
