@@ -2,6 +2,9 @@
 
 I put this project together for submission of the Winter 2022 Shopify Front End Developer Challenge
 
+<h2>Link To Deployed Site</h2>
+https://614a43eaf418c90008431fb4--distracted-gates-35ce90.netlify.app/
+
 <h2>Tech Used</h2>
 
 - React JS
@@ -20,4 +23,7 @@ I put this project together for submission of the Winter 2022 Shopify Front End 
 - Infinite scroll
 
 <h2>Image of Deployed App</h2>
-<img width="388" alt="screenshot" src="https://user-images.githubusercontent.com/74308960/134218528-6c8ae127-df44-47cb-827c-4ee52e09c570.PNG"
+<img width="390" alt="spacetagram" src="https://user-images.githubusercontent.com/74308960/134245452-be0bf24c-4fa5-4e5f-a453-bc66cb65a714.PNG">
+
+
+
