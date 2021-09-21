@@ -7,9 +7,9 @@ export default function Loading() {
         <div className="loading">
             <Loader
             type="Puff"
-            color="limegreen"
-            height={100}
-            width={100}
+            color="#9ef01a"
+            height={50}
+            width={50}
             timeout={2000} //2 secs
         />
         </div>

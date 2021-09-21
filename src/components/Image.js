@@ -9,7 +9,7 @@ export default function Image({image}) {
             className="readMore" 
             onClick={()=> {setReadMore(!readMore)}}
         >
-            {readMore ? "" : "...  More"}
+            {readMore ? "" : "...  Read More"}
         </span>
         {readMore && extraContent}
     </span>
@@ -18,7 +18,7 @@ export default function Image({image}) {
         <section className="container">
             <div className="card">
                 <div className="info">
-                    <img src={image.url} alt="" className="profile-pic"/>
+                    <img src={image.url} alt="" className="small-pic"/>
                     <h4>{image.date}</h4>
                 </div>
                 <div className="">

@@ -1,12 +1,12 @@
 .title {
     color: rgb(242, 243, 243);
+    font-size: xx-large;
   }
-  
   .navbar {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
-    background: royalblue;
+    background: rgb(111, 8, 170);
     text-align: center;
   }

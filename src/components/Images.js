@@ -27,7 +27,7 @@ export default function Images() {
         )
     }
     return (
-        <div className="showImages">
+        <div className="display">
             {isLoading && <Loading/>}
             <ShowImages className="test"/>
         </div>

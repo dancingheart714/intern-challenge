@@ -8,14 +8,14 @@ h4 {
     padding-left: 12px;
   }
   .container {
-    box-shadow: 0 4px 12px 0 hsl(199, 93%, 84%);
+    box-shadow: 0 4px 12px 0 hsl(197, 100%, 87%);
     transition: 0.4s;
     width: 100%;
     border-radius: 10px;
-    padding-left: 10px;
+    padding-left: 15px;
   }
   .container:hover {
-    box-shadow: 0 8px 12px 0 rgba(45, 31, 236, 0.2);
+    box-shadow: 0 8px 12px 0 rgba(87, 11, 158, 0.2);
   }
   
   .card-text  {
@@ -24,26 +24,33 @@ h4 {
   }
   
   .card-image {
-    width: 100%;
+    width: 90%;
     height: 100%;
   }
   
-  .scroll, .showImages {
+  .scroll {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    padding: 2% 3%;
+  }
+
+  .display {
     display: flex;
     flex-direction: column;
     gap: 1em;
     padding: 2% 3%;
   }
   
-  .profile-pic {
-    width: 30px;
-    height: 30px;
+  .small-pic {
+    width: 40px;
+    height: 40px;
     border-radius: 90%;
   }
 
   .readMore {
     cursor: pointer;
-    color: royalblue;
+    color: rgb(115, 14, 155);
   }
   @media only screen and (max-width: 800px) {
     .scroll {
