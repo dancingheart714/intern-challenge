@@ -20,4 +20,4 @@ I put this project together for submission of the Winter 2022 Shopify Front End 
 - Infinite scroll
 
 <h2>Image of Deployed App</h2>
-<img width="388" alt="screenshot" src="https://user-images.githubusercontent.com/74308960/134218528-6c8ae127-df44-47cb-827c-4ee52e09c570.PNG">
+<img width="388" alt="screenshot" src="https://user-images.githubusercontent.com/74308960/134218528-6c8ae127-df44-47cb-827c-4ee52e09c570.PNG"
